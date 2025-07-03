@@ -21,7 +21,7 @@ I'm currently learning Python, Rust and Pentesting. I'm passionate about process
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nur5u1t4n&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur5u1t4n&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur5u1t4n&layout=compact&theme=transparent)
 
 ## 📫 Contact Me
 - Email: mukhametzhanovnurs@gmail.com
