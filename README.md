@@ -15,9 +15,10 @@ I'm currently learning Python, Rust and Pentesting. I'm passionate about process
 ## 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
-![Obsidian](https://img.shields.io/badge/-Obsidian-9059B6?style=flat&logo=obsidian)
+![Obsidian](https://img.shields.io/badge/-Obsidian-333?style=flat&logo=obsidian&logoColor=7b39ed)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+
 
 ---
 
