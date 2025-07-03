@@ -20,7 +20,7 @@ I'm currently learning Python, Rust and Pentesting. I'm passionate about process
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nur5u1t4n&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nur5u1t4n&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur5u1t4n&layout=compact&theme=transparent)
 
 ## 📫 Contact Me
