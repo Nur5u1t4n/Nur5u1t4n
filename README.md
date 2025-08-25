@@ -5,8 +5,7 @@ I'm currently learning Python, Rust and Pentesting. I'm passionate about process
 ---
 
 ## 🧠 Interests
-- Learning: **Python**, **Rust**, **Pentesting**
-- Building CLI tools
+- Learning: **Python**, **Rust**
 - Process automation
 - Obsidian note management
 
