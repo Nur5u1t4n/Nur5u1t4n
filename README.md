@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nursultan — Software Development, Data Analytics, Automation" width="100%" />
-</p>
-
 <h1 align="center">Nursultan Mukhametzhanov</h1>
 <p align="center"><strong>Software Development · Data Analytics · Automation</strong></p>
 <p align="center">I turn practical problems into useful software.</p>
