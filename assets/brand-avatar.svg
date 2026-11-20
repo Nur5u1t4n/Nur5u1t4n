@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Nursultan — brand avatar</title>
+  <desc id="desc">Compact geometric network symbol on a dark rounded background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101D25"/><stop offset="1" stop-color="#203A40"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55E4C0"/><stop offset="1" stop-color="#9DE6AC"/></linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFB18A"/><stop offset="1" stop-color="#E56E60"/></linearGradient>
+    <filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M86 112H426M86 200H426M86 288H426M86 376H426M112 86V426M200 86V426M288 86V426M376 86V426" stroke="#A9C8C0" stroke-opacity=".055" stroke-width="2"/>
+  <g fill="none" stroke="#70DCC1" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+    <path d="m128 190 104-72 102 58 70-40M128 190l-4 132 108 72 102-70 70 54M232 118l0 132 98 74M334 176l-102 74-108 72"/>
+  </g>
+  <g filter="url(#g)">
+    <path d="m128 190 104-72v132l-108 72z" fill="#35BBA8"/>
+    <path d="m232 250 102-74v148l-102 70z" fill="url(#a)"/>
+    <path d="m334 176 70-40v148l-70 40z" fill="#299E91"/>
+    <path d="m334 324 70-40v94l-70 44z" fill="url(#c)"/>
+  </g>
+  <g fill="#F0FAF3"><circle cx="128" cy="190" r="9"/><circle cx="232" cy="118" r="9"/><circle cx="334" cy="176" r="10"/><circle cx="404" cy="136" r="8"/><circle cx="124" cy="322" r="8"/><circle cx="232" cy="394" r="9"/><circle cx="334" cy="324" r="10"/><circle cx="404" cy="378" r="8"/></g>
+  <circle cx="232" cy="250" r="8" fill="#FFB18A"/>
+  <rect x="18" y="18" width="476" height="476" rx="98" fill="none" stroke="#C4E7D9" stroke-opacity=".15" stroke-width="2"/>
+</svg>
