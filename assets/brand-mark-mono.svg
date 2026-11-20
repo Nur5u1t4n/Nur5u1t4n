@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Nursultan — monochrome brand mark</title>
+  <desc id="desc">Single-color geometric modular network symbol.</desc>
+  <g fill="none" stroke="#E8F1EC" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 172 216 112 304 162 386 118M126 172 116 284 208 350 304 300 386 352M216 112 208 224 304 300M304 162 208 224 116 284M304 162 386 248 386 352" stroke-width="8" opacity=".65"/>
+    <path d="m126 172 90-60 88 50-8 138-88 50-92-66z" stroke-width="2" opacity=".35"/>
+  </g>
+  <g fill="#E8F1EC">
+    <path d="m126 172 90-60 0 112-100 60z" opacity=".95"/>
+    <path d="m216 224 88-62 0 138-96 50z" opacity=".78"/>
+    <path d="m304 162 82-44 0 130-82 52z" opacity=".58"/>
+    <path d="m304 300 82-52 0 104-82 48z" opacity=".92"/>
+    <circle cx="126" cy="172" r="9"/><circle cx="216" cy="112" r="8"/><circle cx="304" cy="162" r="10"/><circle cx="386" cy="118" r="8"/>
+    <circle cx="116" cy="284" r="8"/><circle cx="208" cy="350" r="9"/><circle cx="304" cy="300" r="10"/><circle cx="386" cy="352" r="8"/>
+  </g>
+</svg>
