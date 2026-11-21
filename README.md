@@ -28,9 +28,10 @@ My interests are at the intersection of **software development, data analytics, 
       <p>A collection of free online tools designed to simplify everyday calculations and tasks.</p>
       <p>Built with Astro and TypeScript. All processing happens locally in the browser, keeping user data on their device.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Nur5u1t4n/utilix?style=flat-square&label=language" alt="Utilix primary language">
-        <img src="https://img.shields.io/github/stars/Nur5u1t4n/utilix?style=flat-square&label=stars" alt="Utilix stars">
         <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/github/stars/Nur5u1t4n/utilix?style=flat-square&label=stars" alt="Utilix stars">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -38,9 +39,9 @@ My interests are at the intersection of **software development, data analytics, 
       <p>An Everforest-inspired theme for Obsidian, designed for comfortable reading and a consistent visual experience.</p>
       <p>Features warm colors, subtle contrast, colored folders, and custom callouts.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Nur5u1t4n/neverforest?style=flat-square&label=language" alt="Neverforest primary language">
-        <img src="https://img.shields.io/github/stars/Nur5u1t4n/neverforest?style=flat-square&label=stars" alt="Neverforest stars">
+        <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian">
+        <img src="https://img.shields.io/github/stars/Nur5u1t4n/neverforest?style=flat-square&label=stars" alt="Neverforest stars">
       </p>
     </td>
   </tr>
@@ -50,9 +51,9 @@ My interests are at the intersection of **software development, data analytics, 
       <p>A Windhawk mod for Windows 11 that hides the taskbar and expands the desktop work area.</p>
       <p>A lightweight Windows customization built with C++.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Nur5u1t4n/permanent-taskbar-hider?style=flat-square&label=language" alt="Taskbar Hider primary language">
-        <img src="https://img.shields.io/github/stars/Nur5u1t4n/permanent-taskbar-hider?style=flat-square&label=stars" alt="Taskbar Hider stars">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11">
+        <img src="https://img.shields.io/github/stars/Nur5u1t4n/permanent-taskbar-hider?style=flat-square&label=stars" alt="Taskbar Hider stars">
       </p>
     </td>
     <td width="50%" valign="top">
