@@ -59,11 +59,49 @@ My interests are at the intersection of **software development, data analytics, 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-**AI & Automation**
+**AI & AI-Assisted Development**
+
+*AI platforms & assistants*
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+![Poe](https://img.shields.io/badge/Poe-5D5D5D?style=flat-square)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
+*Models & local AI*
+
+![Qwen](https://img.shields.io/badge/Qwen-615EFF?style=flat-square)
+![Qwen_Coder](https://img.shields.io/badge/Qwen_Coder-615EFF?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-0A7EA4?style=flat-square)
+![LM_Studio](https://img.shields.io/badge/LM_Studio-5965F2?style=flat-square)
+
+*Coding agents & CLI*
+
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Gemini_CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude_Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-242938?style=flat-square)
+![Devin](https://img.shields.io/badge/Devin-5B5BD6?style=flat-square)
+![Antigravity_CLI](https://img.shields.io/badge/Antigravity_CLI-3B82F6?style=flat-square)
+
+*AI editors & coding assistants*
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-5B8DEF?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-3B82F6?style=flat-square)
+![Windsurf](https://img.shields.io/badge/Windsurf-0B9B8A?style=flat-square)
+![GitHub_Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cline](https://img.shields.io/badge/Cline-6D5CE8?style=flat-square)
+![Roo_Code](https://img.shields.io/badge/Roo_Code-7C5CFC?style=flat-square)
+
+*AI app builders & design*
+
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square)
+![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-4285F4?style=flat-square)
 
 ## Featured projects
 
