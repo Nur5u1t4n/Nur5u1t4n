@@ -63,7 +63,6 @@ My interests are at the intersection of **software development, data analytics, 
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-333333?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-0A7EA4?style=flat-square)
 
 ## Featured projects
