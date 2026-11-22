@@ -109,7 +109,8 @@ My interests are at the intersection of **software development, data analytics, 
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nur5u1t4n&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328" alt="GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur5u1t4n&show_icons=true&include_all_commits=true&hide_border=true&theme=default&title_color=0969da&icon_color=0969da&text_color=1f2328" alt="GitHub statistics" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur5u1t4n&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=0969da&text_color=1f2328" alt="Most used programming languages" height="170">
 </div>
 
 ## Contact
